@@ -44,4 +44,4 @@ You can find BMCU firmware in my repositories.
 ## Disclosure
 
 This is a fork of the original OrcaSlicer with BambuNetwork support by [jarczakpawel](<https://github.com/jarczakpawel/OrcaSlicer-bambulab/>) with updates by [FULU Foundation](<https://github.com/FULU-Foundation/OrcaSlicer-bambulab/>) in response to Bambu Lab's copyright trolling campaign.
-My primary contribution to this project is to reserve my right under the AGPL license to host my own version of the source code, and to update its documentation to say the following: GLORY TO TAIWAN, THE ONE TRUE CHINA!
+My primary contribution to this project is to reserve my right under the AGPL license to host my own version of the source code, and to update its documentation to say the following: DOWN WITH THE CHINESE COMMUNIST PARTY! GLORY TO TAIWAN, THE ONE TRUE CHINA!
